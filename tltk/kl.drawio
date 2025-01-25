@@ -10,7 +10,7 @@
         <mxCell id="VAHyn8yl-rxrOIaUWyb0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VAHyn8yl-rxrOIaUWyb0-2" value="Lập bản đồ biến động rừng" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="VAHyn8yl-rxrOIaUWyb0-2" value="&lt;b&gt;Lập bản đồ biến động rừng&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VAHyn8yl-rxrOIaUWyb0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="VAHyn8yl-rxrOIaUWyb0-3" target="VAHyn8yl-rxrOIaUWyb0-4" edge="1">
@@ -28,40 +28,40 @@
         <mxCell id="VAHyn8yl-rxrOIaUWyb0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="VAHyn8yl-rxrOIaUWyb0-5" target="VAHyn8yl-rxrOIaUWyb0-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VAHyn8yl-rxrOIaUWyb0-5" value="Chồng lớp bản đồ" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="VAHyn8yl-rxrOIaUWyb0-5" value="&lt;b&gt;Chồng lớp bản đồ&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VAHyn8yl-rxrOIaUWyb0-6" value="&amp;nbsp;Thu thập dữ liệu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="VAHyn8yl-rxrOIaUWyb0-6" value="&lt;b&gt;&amp;nbsp;Thu thập dữ liệu&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="55" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VAHyn8yl-rxrOIaUWyb0-8" value="Xử lý dữ liệu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="VAHyn8yl-rxrOIaUWyb0-8" value="&lt;b&gt;Xử lý dữ liệu&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="354" y="175" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VAHyn8yl-rxrOIaUWyb0-9" value="Giải đoán ảnh" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="VAHyn8yl-rxrOIaUWyb0-9" value="&lt;b&gt;Giải đoán ảnh&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="354" y="295" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VAHyn8yl-rxrOIaUWyb0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" parent="1" source="VAHyn8yl-rxrOIaUWyb0-18" target="VAHyn8yl-rxrOIaUWyb0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VAHyn8yl-rxrOIaUWyb0-18" value="Ảnh landsat, bản đồ" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="VAHyn8yl-rxrOIaUWyb0-18" value="&lt;b&gt;Ảnh landsat, bản đồ&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VAHyn8yl-rxrOIaUWyb0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" parent="1" source="VAHyn8yl-rxrOIaUWyb0-20" target="VAHyn8yl-rxrOIaUWyb0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VAHyn8yl-rxrOIaUWyb0-20" value="&amp;nbsp;Tiền xử lý ảnh, tạo ảnh chỉ số" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="VAHyn8yl-rxrOIaUWyb0-20" value="&lt;b&gt;&amp;nbsp;Tiền xử lý ảnh, tạo ảnh chỉ số&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VAHyn8yl-rxrOIaUWyb0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" parent="1" source="VAHyn8yl-rxrOIaUWyb0-21" target="VAHyn8yl-rxrOIaUWyb0-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VAHyn8yl-rxrOIaUWyb0-21" value="Dữ liệu thực địa" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="VAHyn8yl-rxrOIaUWyb0-21" value="&lt;b&gt;Dữ liệu thực địa&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="530" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VAHyn8yl-rxrOIaUWyb0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;strokeWidth=2;" parent="1" source="VAHyn8yl-rxrOIaUWyb0-25" target="VAHyn8yl-rxrOIaUWyb0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VAHyn8yl-rxrOIaUWyb0-25" value="Tạo mẫu huấn luyện/ đánh giá" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="VAHyn8yl-rxrOIaUWyb0-25" value="&lt;b&gt;Tạo mẫu huấn luyện/ đánh giá&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
